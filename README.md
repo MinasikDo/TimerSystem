@@ -1,4 +1,3 @@
-```markdown
 # TimerSystem
 
 A lightweight plugin for SCP: Secret Laboratory that displays round time and server name to all players. Built using the EXILED framework.
