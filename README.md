@@ -14,7 +14,7 @@ A lightweight plugin for SCP: Secret Laboratory that displays round time and ser
 ## 🚀 Installation
 
 ### Prerequisites
-- [EXILED Framework](https://github.com/ExMod-Team/EXILED/releases) installed on your SCP:SL server
+- [EXILED](https://github.com/ExMod-Team/EXILED/releases) installed on your SCP:SL server
 
 ### Installation Steps
 1. Download the latest `TimerSystem.dll` from [Releases](https://github.com/MinasikDo/TimerSystem/releases)
